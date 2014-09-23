@@ -1,1 +1,1 @@
-./mosaic-distribution/do
+./.pallur-distribution/do

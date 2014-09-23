@@ -8,6 +8,8 @@
 !/.mosaic-repositories
 !/.mosaic-dependencies
 
+!/.pallur-distribution
+
 !/.pallur-local-env.bash
 !/.pallur-local-repositories
 !/.pallur-local-dependencies
