@@ -1,0 +1,3 @@
+[submodule ".pallur-distribution"]
+	path = .pallur-distribution
+	url = ../mosaic-distribution.git
